@@ -1,0 +1,12 @@
+export { default as Home } from "./Home";
+export { default as Dashboard } from "./dashboard/Dashboard";
+export { default as ManageTeam } from "./manageTeam/ManageTeam";
+export { default as Contacts } from "./contacts/Contacts";
+export { default as Invoices } from "./invoices/Invoices";
+export { default as Profile } from "./profile/Profile";
+export { default as Calendar } from "./calendar/Calendar";
+export { default as Faq } from "./faq/Faq";
+export { default as BarChart } from "./barChart/BarChart";
+export { default as PieChart } from "./pieChart/PieChart";
+export { default as LineChart } from "./lineChart/LineChart";
+export { default as GeographyChart } from "./geography/GeographyChart";
